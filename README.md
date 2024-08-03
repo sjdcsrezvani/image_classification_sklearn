@@ -23,7 +23,7 @@
 
 برای استفاده از مدل ابتدا فایل [server.py](./server/server.py) را اجرا کنید، سپس فایل [app.html](./UI/app.html) را اجرا کنید.
 
-## so in this project i used these techniques:
+### so in this project i used these techniques:
 1. open-cv
 2. haarcascade
 3. pywavelet-transfomation
@@ -34,7 +34,7 @@
 8. flask
 9. javascript
 
-webpage images:
+### webpage images:
 ![Screenshot 2024-08-03 134724](https://github.com/user-attachments/assets/fc644c3d-bca9-4636-b9d4-d88cf7c68313)
 
 here it will give us the score for each category:
