@@ -7,6 +7,7 @@
 [![Generic badge](https://img.shields.io/badge/pywavelet-1.6.0-blue.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/open_cv-4.10.0-red.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/scikit_learn-1.4.2-green.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/flask-3.0.3-red.svg)](https://shields.io/)
 
 ## description:
 
