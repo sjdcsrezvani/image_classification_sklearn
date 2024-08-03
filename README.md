@@ -3,6 +3,10 @@
 ## requirements:
 
 [![Generic badge](https://img.shields.io/badge/python-3.9-yellow.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/numpy-1.26.4-yellow.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/pywavelet-1.6.0-blue.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/open_cv-4.10.0-red.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/scikit_learn-1.4.2-green.svg)](https://shields.io/)
 
 ## description:
 
