@@ -2,7 +2,7 @@
 
 ## requirements:
 
-[![Generic badge](https://img.shields.io/badge/python-3.9-yello.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/python-3.9-yellow.svg)](https://shields.io/)
 
 ## description:
 
