@@ -10,7 +10,7 @@
 
 و برای ساخت صفحه وب از کتابخانه flask برا بک اند .
 
-برای استفاده از مدل ابتدا فایل server.py را اجرا کنید، سپس فایل app.html را اجرا کنید.
+برای استفاده از مدل ابتدا فایل [server.py](./server/server.py) را اجرا کنید، سپس فایل [app.html](./UI/app.html) را اجرا کنید.
 
 so in this project i used these techniques:
 1. open-cv
