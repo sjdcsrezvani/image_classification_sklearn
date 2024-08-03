@@ -1,5 +1,11 @@
 # iranian celebrity image classification
 
+## requirements:
+
+
+
+## description:
+
 در این پروژه از عکس های 4 بازیگر ایرانی استفاده کردم و با استفاده از کتابخانه open-cv و haarcascade باکس صورت و چشم های عکس ها را شناسایی کردم و صورت های مورد نظر crop شدند.
 
 سپس از pywavelet transformation استفاده کردم تا عکس ها اطلاعات بهتری در اختیار مدل قرار بدهند.
