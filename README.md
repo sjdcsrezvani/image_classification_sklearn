@@ -12,7 +12,7 @@
 
 برای استفاده از مدل ابتدا فایل [server.py](./server/server.py) را اجرا کنید، سپس فایل [app.html](./UI/app.html) را اجرا کنید.
 
-so in this project i used these techniques:
+## so in this project i used these techniques:
 1. open-cv
 2. haarcascade
 3. pywavelet-transfomation
