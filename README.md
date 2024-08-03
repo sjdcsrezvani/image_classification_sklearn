@@ -17,6 +17,11 @@ so in this project i used these techniques:
 2. haarcascade
 3. pywavelet-transfomation
 4. gridsearch-cv
+5. sklearn
+6. hyper-parameter tuning
+7. SVC
+8. flask
+9. javascript
 
 webpage images:
 ![Screenshot 2024-08-03 134724](https://github.com/user-attachments/assets/fc644c3d-bca9-4636-b9d4-d88cf7c68313)
